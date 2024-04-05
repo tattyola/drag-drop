@@ -148,7 +148,6 @@ const Table = () => {
                 ))}
             </div>
 
-
             <div>
                 {tableData.map((row, index) => (
                     <Row
